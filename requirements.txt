@@ -1,4 +1,4 @@
 # This requirements file lists all third-party dependencies for this project.
-telepot==10.5
 Flask==0.12.1
 requests==2.4.3
+gunicorn==19.3.0
