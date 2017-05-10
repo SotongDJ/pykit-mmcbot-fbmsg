@@ -1,0 +1,2 @@
+# This requirements file lists all third-party dependencies for this project.
+telepot==10.5

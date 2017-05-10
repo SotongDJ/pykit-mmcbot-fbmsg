@@ -1,0 +1,13 @@
+runtime: python
+env: flex
+
+runtime_config:
+    python_version: 3
+
+libraries:
+- name: telepot
+  version: "10.5"
+- name: Flask
+  version: "0.12.1"
+- name: requests
+  version: "2.4.3"
