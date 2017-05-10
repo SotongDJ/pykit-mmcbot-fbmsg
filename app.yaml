@@ -6,11 +6,3 @@ runtime_config:
 handlers:
 - url: /.*
   script: main.app
-
-libraries:
-- name: telepot
-  version: "10.5"
-- name: Flask
-  version: "0.12.1"
-- name: requests
-  version: "2.4.3"
