@@ -1,4 +1,4 @@
 # This requirements file lists all third-party dependencies for this project.
-Flask==0.12.1
-requests==2.4.3
-gunicorn==19.3.0
+Flask==1.1.2
+requests==2.24.0
+gunicorn==20.0.4
